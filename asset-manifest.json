@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ui_assessment/static/css/main.fb2b9d3c.css",
+    "main.js": "/ui_assessment/static/js/main.fa629b5c.js",
+    "static/media/helmet2.jpg": "/ui_assessment/static/media/helmet2.c61fe8bd8c2c3a0d4c9e.jpg",
+    "static/media/helmet4.jpg": "/ui_assessment/static/media/helmet4.71863483fc97162e80a1.jpg",
+    "static/media/helmet5.jpg": "/ui_assessment/static/media/helmet5.2bd1f5749766aea25ce2.jpg",
+    "static/media/shoesblue.jpg": "/ui_assessment/static/media/shoesblue.d4e9891175deba98a662.jpg",
+    "static/media/helmet.jpg": "/ui_assessment/static/media/helmet.88b75f9175de5e318b8b.jpg",
+    "static/media/helmet3.jpg": "/ui_assessment/static/media/helmet3.9c4eaa599638944b6e73.jpg",
+    "static/media/shoesl.jpg": "/ui_assessment/static/media/shoesl.04b503c4a613209f4b02.jpg",
+    "static/media/shoes.jpg": "/ui_assessment/static/media/shoes.5a96bd763fc40d828b1d.jpg",
+    "static/media/helmet sm.jpg": "/ui_assessment/static/media/helmet sm.89309e399792578c7278.jpg",
+    "static/media/hel3.jpg": "/ui_assessment/static/media/hel3.60af51ced44ec9042eb2.jpg",
+    "static/media/hel4.jpg": "/ui_assessment/static/media/hel4.bbec3b49c6d0fc42f6c0.jpg",
+    "static/media/hel5.jpg": "/ui_assessment/static/media/hel5.2e20f9e9c2f829925ea1.jpg",
+    "index.html": "/ui_assessment/index.html",
+    "main.fb2b9d3c.css.map": "/ui_assessment/static/css/main.fb2b9d3c.css.map",
+    "main.fa629b5c.js.map": "/ui_assessment/static/js/main.fa629b5c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb2b9d3c.css",
+    "static/js/main.fa629b5c.js"
+  ]
+}
