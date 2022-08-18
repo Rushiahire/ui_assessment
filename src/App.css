@@ -1,0 +1,271 @@
+#ul_items {
+  padding: 0 1% 0 2%;
+  width: 90%;
+  font-size: 1rem;
+}
+
+#nav {
+  width: 100%; 
+  margin-top: 0;
+  padding-top: 0;
+}
+
+.nav-item {
+  padding: 0 2%;
+  font-size: 1.1rem;
+}
+
+#ul_items li {
+  color: red;
+}
+
+.nav item i {
+  color: red;
+}
+
+#search_bar { 
+  padding-left: 10%;
+}
+
+
+/* listing page */
+
+.filter_div {
+  border-radius: 8px;
+  background-color: rgba(128, 128, 128, 0.164);
+  width: 20%;
+  position: absolute;
+  overflow: hidden;
+  padding:1% 0 0 3% ;
+  margin:1% 0 0 1%;
+}
+
+.container {
+  margin-right: 0;
+  margin-top: 10%;
+  margin-bottom: 6%;
+  /* margin: 10% 0 2% 0; */
+}
+
+.container img {
+  width: 59%;
+  height: 200px;
+}
+
+.product_title { 
+  font-size: 1.1rem;
+}
+
+.product_price {
+  font-size: 1.2rem;
+  font-weight: bolder;
+}
+
+
+@media screen and (max-width:800px) { 
+ .container img {
+  width: 80%;
+}
+
+}
+
+@media screen and (max-width:550px) {
+  .filter_div {
+    position: relative;
+    width: 50%;
+    margin: auto;
+    margin-top: 15%;
+  }
+
+  .container {
+    margin: auto;
+  }
+}
+
+
+/* DETAIL PAGE */
+
+
+.hel_img img {
+  width: 50%;
+  height: 150px;
+  border: 1px solid black;
+  border-radius: 9px;
+  margin: 2% 0;
+  padding: 3% ;
+}
+
+#add_to_cart {
+  /* width: 15%; */
+  padding: 1% 1.5%;
+  margin: 2% 0;
+}
+
+
+#slider_button span {
+  /* margin-left: 100%; */
+  color: black;
+  /* margin-right: 0%; */
+}
+
+
+.helmet_images img {
+  width: 90%;
+  height: auto;
+  margin-left: 5%;
+}
+
+@media screen and (max-width:620px) {
+  .hel_img img {
+    margin: 2% auto;
+  }
+
+
+
+  #add_to_cart {
+    width: 40%;
+  }
+}
+
+
+
+
+
+
+/* ORDER PAGE */
+
+.hel_container {
+  margin: 5% auto ;
+}
+
+#hel_img {
+  width: 100%;
+  height: 550px;
+}
+
+#product_price {
+  font-size: 1.4rem;
+}
+
+#product_ul li {
+  list-style: none;
+}
+
+#product_ul li span {
+  color: blue;
+}
+
+#fa_green {
+  color: green;
+}
+
+#fa_orange {
+  color: orange;
+
+}
+
+#fa_red {
+  color: rgb(240, 65, 65);
+}
+
+.quantity_input {
+  width: 25%;
+}
+
+.color_green {
+  color: green;
+}
+
+.check_color {
+  margin-left: 15%;
+  font-size: 0.8rem;
+  padding: 2% 3%;
+}
+
+@media screen and (max-width:450px) {
+  #hel_img {
+    width: 85%;
+    height: 400px;
+  }
+  
+}
+
+
+/* FOOTER */
+
+footer {
+  background-color: rgba(128, 128, 128, 0.164);
+  margin-top: 14%;
+}
+
+#footer_part1 {
+  padding:0 40%;
+  align-items: center;
+  text-align: center;
+}
+
+#specify {
+  padding: 4% 3%;
+  margin: 0;
+  background-color: white;
+  border-radius: 6px;
+}
+
+#footer_content {
+  padding: 2% 0 5% 0;
+}
+
+#footer_para { 
+  font-size: 0.9rem;
+  margin: 1% 2.5%;
+  color: gray;
+}
+
+
+@media screen and (max-width:850px) {
+  footer {
+    margin-top: 20%;
+  }
+
+  #footer_part1 {
+    padding: 0 25%;
+  }
+
+}
+
+@media screen and (max-width:600px) {
+  #footer_part1 {
+    padding: 0 20%;
+    /* text-align: center; */
+  }
+
+  footer {
+    margin-top: 25%;
+  }
+
+
+  #footer_part1 {
+    padding: 0 20%;
+  }
+}
+
+@media screen and (max-width:580px) {
+
+  footer {
+    padding:0 3%;
+  }
+}
+
+@media screen and (max-width:500px) {
+
+  #footer_optimized {
+    padding: 5% 10%;
+    text-align: center;
+  }
+
+  
+#footer_part1 {
+  padding: 1% 3%;
+}
+
+}
